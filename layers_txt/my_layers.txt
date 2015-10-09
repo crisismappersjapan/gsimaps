@@ -5,7 +5,7 @@
       "id": "std",
       "title": "OpenStreetMap",
       "iconUrl": "",
-      "url": "http://c.tile.stamen.com/toner/{z}/{x}/{y}.png",
+      "url": "https://a.tiles.mapbox.com/v4/mapconcierge.ied82h8n/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwY29uY2llcmdlIiwiYSI6ImJmNENfRG8ifQ.sfstXrLSQ50IqGHpAUlKDw",
       "subdomains": "",
       "attribution": "",
       "cocotile": true,
