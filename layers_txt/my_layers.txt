@@ -1,9 +1,16 @@
 {
   "layers": [
     {
+      "type": "LayerGroup",
+      "title": "OpenStreetMap",
+      "iconUrl": "",
+      "open": false,
+      "toggleall": false,
+      "entries": [
+    {
       "type": "Layer",
       "id": "std",
-      "title": "OpenStreetMap",
+      "title": "標準地図",
       "iconUrl": "",
       "url": "https://a.tiles.mapbox.com/v4/mapconcierge.ied82h8n/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwY29uY2llcmdlIiwiYSI6ImJmNENfRG8ifQ.sfstXrLSQ50IqGHpAUlKDw",
       "subdomains": "",
@@ -45,5 +52,7 @@
       "maxZoom": 18,
       "maxNativeZoom": 2
     }
+  ]
+}
   ]
 }
