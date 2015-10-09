@@ -46,7 +46,7 @@
       "attribution": "",
       "cocotile": true,
       "legendUrl": "http://mapconcierge.github.io/gsimaps/example231/{z}/{x}/{y}.geojson",
-      "html": "<a href='https://github.com/crisismappersjapan/gsimaps/edit/gh-pages/layers_txt/my_layers.txt'>編集</a>"
+      "html": "<a href='https://github.com/crisismappersjapan/gsimaps/edit/gh-pages/layers_txt/my_layers.txt'>編集</a>",
       "maxZoom": 18,
     }
   ]
