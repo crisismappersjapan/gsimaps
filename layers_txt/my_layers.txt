@@ -3,7 +3,7 @@
     {
       "type": "Layer",
       "id": "std",
-      "title": "OSM標準地図",
+      "title": "OpenStreetMap",
       "iconUrl": "",
       "url": "http://c.tile.stamen.com/toner/{z}/{x}/{y}.png",
       "subdomains": "",
@@ -15,7 +15,7 @@
     {
       "type": "Layer",
       "id": "pale",
-      "title": "Stamen",
+      "title": "モノクロ",
       "iconUrl": "",
       "url": "http://c.tile.stamen.com/toner/{z}/{x}/{y}.png",
       "subdomains": "",
@@ -27,9 +27,9 @@
     {
       "type": "Layer",
       "id": "blank",
-      "title": "HOTレイヤ",
+      "title": "水彩画レイヤ",
       "iconUrl": "",
-      "url": "http://c.tile.stamen.com/toner/{z}/{x}/{y}.png",
+      "url": "http://c.tile.stamen.com/watercolor/{z}/{x}/{y}.png",
       "subdomains": "",
       "attribution": "",
       "cocotile": true,
